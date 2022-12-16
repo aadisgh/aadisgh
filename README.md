@@ -1,4 +1,4 @@
-![MasterHead](https://devblogs.microsoft.com/visualstudio/wp-content/uploads/sites/4/2018/02/Hot-Code-Replacement-for-Java-in-Visual-Studio-Code.gif)
+![MasterHead](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 <h1 align="center">Hi 👋, I'm Aditya Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*gqO3slLmGb4mUeje.gif">
