@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Reactjs**
 
-- 👨‍💻 All of my projects are available at [https://aadisgh.netlify.app/](https://aadisgh.netlify.app/)
+- 👨‍💻 All of my projects are available at [ADITYA SINGH — MY PORTFOLIO](https://adityas.vercel.app/)
 
 - 💬 Ask me about **Andriod, Python**
 
