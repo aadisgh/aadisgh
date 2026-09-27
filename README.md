@@ -1,31 +1,39 @@
 <div align="center">
 
-ADITYA SINGH
-FULL-STACK DEVELOPER
-I build web applications, automate workflows, and turn ideas into real products.
+<img src="./assets/profile-hero.png" alt="Aditya Singh - Full-Stack Developer" width="100%">
 
- 
- 
- 
- 
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Build+%E2%86%92+Ship+%E2%86%92+Learn+%E2%86%92+Improve;Web+Apps+%7C+APIs+%7C+Automation+%7C+UI%2FUX" alt="Typing animation" />
+<a href="https://adityas.vercel.app/">
+  <img src="https://img.shields.io/badge/View_Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+</a>
+<a href="https://github.com/aadisgh">
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="mailto:adityasgh20@outlook.com">
+  <img src="https://img.shields.io/badge/Contact_Me-0D1117?style=for-the-badge&logo=microsoftoutlook&logoColor=0078D4" alt="Email">
+</a>
 
 </div>
 
-ABOUT
-Aditya Singh
-Full-Stack Developer • India
+---
 
-I turn ideas into practical software.
+<div align="center">
 
-Focus:
-→ Web applications
-→ Business & dashboard systems
-→ REST APIs & backend services
-→ Automation workflows
-→ Modern UI/UX
-const developer = {
+**Full-Stack Developer · India**
+
+Building web applications, business systems, APIs and automation workflows.
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## `~/about-me`
+
+```javascript
+const aditya = {
   name: "Aditya Singh",
   username: "aadisgh",
   role: "Full-Stack Developer",
@@ -45,89 +53,195 @@ const developer = {
 
   mindset: "Build → Ship → Learn → Improve"
 };
-CURRENTLY
-Status	Focus
-🟢 Building	Real-world web applications
-🔵 Improving	React, APIs & system architecture
-🟣 Exploring	AI & automation
-⚪ Learning	Better software engineering practices
-🚀 Open to	Interesting projects & collaborations
+```
 
-
-TECH STACK
-<div align="center">
-
-Frontend
-<img src="https://skillicons.dev/icons?i=react,typescript,javascript,tailwind,html,css,vite&perline=7" alt="Frontend stack" />
-
-Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express&perline=2" alt="Backend stack" />
-
-Database & Services
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase,firebase&perline=4" alt="Database stack" />
-
-Tools
-<img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode&perline=5" alt="Tools stack" />
-
-</div>
-
-FEATURED PROJECTS
-<table>
-<tr>
-<td width="33%" valign="top">
-
-TrackFlow Pro
-Logistics & Shipment Management
-A platform for shipment tracking, client dashboards, billing, operational workflows and automation.
-Stack
-React Node.js Supabase
-View GitHub →
 </td>
 
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-ConnectX
-Real-Time Communication
-A modern chat application focused on authentication, live messaging and interactive UI.
-Stack
-React Node.js MongoDB Socket.IO
-View GitHub →
-</td>
+## `~/current-status`
 
-<td width="33%" valign="top">
+```text
+● Building new products
+● Improving React & API architecture
+● Exploring AI & automation
+● Learning system design
+● Writing cleaner software
+● Open to collaboration
+```
 
-Portfolio
-Personal Developer Website
-A personal website for showcasing projects, technical skills and development work.
-Stack
-React Tailwind CSS Vite
-Open Portfolio →
+<br>
+
+**Focus**
+
+`Web Development` · `APIs` · `Automation` · `UI/UX`
+
 </td>
 </tr>
 </table>
 
-DEVELOPMENT PHILOSOPHY
+---
+
+## `01 / TECH STACK`
+
+<div align="center">
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,typescript,javascript,tailwind,html,css,vite&perline=7" alt="Frontend technologies">
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express&perline=2" alt="Backend technologies">
+
+### Database & Services
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase,firebase&perline=4" alt="Database technologies">
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode&perline=5" alt="Development tools">
+
+</div>
+
+---
+
+## `02 / FEATURED PROJECTS`
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+### TrackFlow Pro
+
+**Logistics & Shipment Management**
+
+Shipment tracking, client dashboards, billing, operational workflows and business automation.
+
+**Built with**
+
+`React` `Node.js` `Supabase`
+
+<br>
+
+[**View Repository →**](https://github.com/aadisgh)
+
+</td>
+
+<td width="33%" valign="top">
+
+### ConnectX
+
+**Real-Time Communication**
+
+Modern chat application with authentication, live messaging and interactive UI.
+
+**Built with**
+
+`React` `Node.js` `MongoDB` `Socket.IO`
+
+<br>
+
+[**View Repository →**](https://github.com/aadisgh)
+
+</td>
+
+<td width="33%" valign="top">
+
+### Portfolio
+
+**Personal Developer Website**
+
+A personal website for showcasing projects, skills and technical work.
+
+**Built with**
+
+`React` `Tailwind CSS` `Vite`
+
+<br>
+
+[**Open Portfolio →**](https://adityas.vercel.app/)
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## `03 / GITHUB STATS`
+
+<div align="center">
+
+<a href="https://github.com/aadisgh">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aadisgh&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub statistics">
+</a>
+
+<a href="https://github.com/aadisgh">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadisgh&layout=compact&hide_border=true&langs_count=7&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top languages">
+</a>
+
+<br><br>
+
+<a href="https://github.com/aadisgh">
+  <img src="https://streak-stats.demolab.com/?user=aadisgh&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF" alt="GitHub streak">
+</a>
+
+</div>
+
+---
+
+## `04 / CONTRIBUTIONS`
+
+<div align="center">
+
+<a href="https://github.com/aadisgh">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadisgh&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF&area=true&hide_border=true" width="96%" alt="Contribution graph">
+</a>
+
+</div>
+
+---
+
+## `05 / DEVELOPMENT PHILOSOPHY`
+
+<div align="center">
+
+```text
 BUILD       Start with an idea
 BREAK       Find what doesn't work
 LEARN       Understand why
 IMPROVE     Make it cleaner
 SHIP        Put it into the real world
-Build something today that makes tomorrow easier.
+```
 
-GITHUB
-<div align="center">
+> **"Build something today that makes tomorrow easier."**
 
- 
- 
- 
 </div>
 
-LET'S CONNECT
+---
+
+## `06 / LET'S CONNECT`
+
 <div align="center">
 
-GitHub • Portfolio • LinkedIn • Instagram • Email
+<a href="https://github.com/aadisgh">GitHub</a>
+&nbsp; · &nbsp;
+<a href="https://adityas.vercel.app/">Portfolio</a>
+&nbsp; · &nbsp;
+<a href="https://www.linkedin.com/">LinkedIn</a>
+&nbsp; · &nbsp;
+<a href="https://linktr.ee/aadisgh">Instagram</a>
+&nbsp; · &nbsp;
+<a href="mailto:adityasgh20@outlook.com">Email</a>
 
+<br><br>
+
+```text
 BUILD → SHIP → LEARN → REPEAT
+```
+
 <sub>© Aditya Singh · aadisgh</sub>
+
 </div>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
