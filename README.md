@@ -30,49 +30,6 @@ Building web applications, business systems, APIs and automation workflows.
 <tr>
 <td width="50%" valign="top">
 
-
-<br>
-
-<table>
-<tr>
-
-<td align="center" width="25%">
-
-### `〈/〉 3+`
-
-**Major Projects**
-
-</td>
-
-<td align="center" width="25%">
-
-### `♙ 2+`
-
-**Years Learning**
-
-</td>
-
-<td align="center" width="25%">
-
-### `☕ ∞`
-
-**Cups of Coffee**
-
-</td>
-
-<td align="center" width="25%">
-
-### `🚀 Always`
-
-**Building**
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
 ## `~/about-me`
 
 ```javascript
@@ -129,19 +86,19 @@ const aditya = {
 
 <div align="center">
 
-### Frontend
+**Frontend**
 
 <img src="https://skillicons.dev/icons?i=react,typescript,javascript,tailwind,html,css,vite&perline=7" alt="Frontend technologies">
 
-### Backend
+**Backend**
 
 <img src="https://skillicons.dev/icons?i=nodejs,express&perline=2" alt="Backend technologies">
 
-### Database & Services
+**Database & Services**
 
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase,firebase&perline=4" alt="Database technologies">
 
-### Tools
+**Tools**
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode&perline=5" alt="Development tools">
 
@@ -213,35 +170,25 @@ A personal website for showcasing projects, skills and technical work.
 
 ---
 
-## `03 / GITHUB STATS`
+## `03 / GITHUB ACTIVITY`
 
 <div align="center">
 
-<a href="https://github.com/aadisgh">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aadisgh&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub statistics">
-</a>
-
-<a href="https://github.com/aadisgh">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadisgh&layout=compact&hide_border=true&langs_count=7&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top languages">
-</a>
-
-<br><br>
-
-<a href="https://github.com/aadisgh">
-  <img src="https://streak-stats.demolab.com/?user=aadisgh&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF" alt="GitHub streak">
-</a>
+<img src="./profile/activity-consistency-wide-dark.svg" width="96%" alt="GitHub activity, streaks and contributions">
 
 </div>
 
 ---
 
-## `04 / CONTRIBUTIONS`
+## `04 / GITHUB OVERVIEW`
 
 <div align="center">
 
-<a href="https://github.com/aadisgh">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadisgh&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF&area=true&hide_border=true" width="96%" alt="Contribution graph">
-</a>
+<img src="./profile/signal-field-wide-dark.svg" width="96%" alt="GitHub activity overview">
+
+<br><br>
+
+<img src="./profile/language-composition-wide-dark.svg" width="96%" alt="GitHub language composition">
 
 </div>
 
@@ -269,15 +216,15 @@ SHIP        Put it into the real world
 
 <div align="center">
 
-<a href="https://github.com/aadisgh">GitHub</a>
+[GitHub](https://github.com/aadisgh)
 &nbsp; · &nbsp;
-<a href="https://adityas.vercel.app/">Portfolio</a>
+[Portfolio](https://adityas.vercel.app/)
 &nbsp; · &nbsp;
-<a href="https://www.linkedin.com/">LinkedIn</a>
+[LinkedIn](https://www.linkedin.com/)
 &nbsp; · &nbsp;
-<a href="https://linktr.ee/aadisgh">Instagram</a>
+[Instagram](https://linktr.ee/aadisgh)
 &nbsp; · &nbsp;
-<a href="mailto:adityasgh20@outlook.com">Email</a>
+[Email](mailto:adityasgh20@outlook.com)
 
 <br><br>
 
