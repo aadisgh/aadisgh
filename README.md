@@ -32,7 +32,7 @@ Building web applications, business systems, APIs and automation workflows.
 
 ## `~/about-me`
 
-```javascript
+javascript
 const aditya = {
   name: "Aditya Singh",
   username: "aadisgh",
@@ -53,7 +53,7 @@ const aditya = {
 
   mindset: "Build → Ship → Learn → Improve"
 };
-```
+
 
 </td>
 
@@ -61,26 +61,26 @@ const aditya = {
 
 ## `~/current-status`
 
-```text
+text
 ● Building new products
 ● Improving React & API architecture
 ● Exploring AI & automation
 ● Learning system design
 ● Writing cleaner software
 ● Open to collaboration
-```
+
 
 <br>
 
 **Focus**
 
-`Web Development` · `APIs` · `Automation` · `UI/UX`
+Web Development` · `APIs` · `Automation` · `UI/UX`
 
 </td>
 </tr>
 </table>
 
----
+
 
 ## `01 / TECH STACK`
 
@@ -204,7 +204,7 @@ A personal website for showcasing projects, skills and technical work.
 
 ---
 
-## `05 / DEVELOPMENT PHILOSOPHY`
+05 / DEVELOPMENT PHILOSOPHY`
 
 <div align="center">
 
