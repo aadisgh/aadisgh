@@ -2,7 +2,7 @@
 
 <img src="./assets/profile-hero.png" alt="Aditya Singh - Full-Stack Developer" width="100%">
 
-<br>
+<br><br>
 
 <a href="https://adityas.vercel.app/">
   <img src="https://img.shields.io/badge/View_Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
@@ -14,11 +14,7 @@
   <img src="https://img.shields.io/badge/Contact_Me-0D1117?style=for-the-badge&logo=microsoftoutlook&logoColor=0078D4" alt="Email">
 </a>
 
-</div>
-
----
-
-<div align="center">
+<br><br>
 
 **Full-Stack Developer · India**
 
@@ -30,14 +26,16 @@ Building web applications, business systems, APIs and automation workflows.
 
 <!-- ======================= HIGHLIGHTS ======================= -->
 
+<div align="center">
+
 <table>
 <tr>
+
 <td align="center" width="25%">
 
 ### `〈/〉`
 
-**3+**
-
+**3+**  
 <sub>Major Projects</sub>
 
 </td>
@@ -46,8 +44,7 @@ Building web applications, business systems, APIs and automation workflows.
 
 ### `♙`
 
-**2+**
-
+**2+**  
 <sub>Years Learning</sub>
 
 </td>
@@ -56,8 +53,7 @@ Building web applications, business systems, APIs and automation workflows.
 
 ### `☕`
 
-**∞**
-
+**∞**  
 <sub>Cups of Coffee</sub>
 
 </td>
@@ -66,15 +62,15 @@ Building web applications, business systems, APIs and automation workflows.
 
 ### `🚀`
 
-**Always**
-
+**Always**  
 <sub>Building</sub>
 
 </td>
+
 </tr>
 </table>
 
-<br>
+</div>
 
 ---
 
@@ -83,9 +79,9 @@ Building web applications, business systems, APIs and automation workflows.
 <table>
 <tr>
 
-<td width="50%" align="center" valign="top">
+<td width="50%" valign="top" align="center">
 
-### `about`
+### About
 
 <br>
 
@@ -93,11 +89,11 @@ Building web applications, business systems, APIs and automation workflows.
 
 Full-Stack Developer · India
 
-<br>
+<br><br>
 
 I turn ideas into practical software.
 
-<br>
+<br><br>
 
 `Web Applications`  
 `Business Systems`  
@@ -105,13 +101,11 @@ I turn ideas into practical software.
 `Automation`  
 `Modern UI/UX`
 
-<br><br>
-
 </td>
 
-<td width="50%" align="center" valign="top">
+<td width="50%" valign="top">
 
-### `current-status`
+### Current Status
 
 <br>
 
@@ -128,10 +122,7 @@ I turn ideas into practical software.
 
 **Focus**
 
-`Web Development` · `APIs`  
-`Automation` · `UI/UX`
-
-<br>
+`Web Development` · `APIs` · `Automation` · `UI/UX`
 
 </td>
 
@@ -140,7 +131,7 @@ I turn ideas into practical software.
 
 <br>
 
-<div align="center">
+### `developer.js`
 
 ```javascript
 const developer = {
@@ -164,8 +155,6 @@ const developer = {
   mindset: "Build → Ship → Learn → Improve"
 };
 ```
-
-</div>
 
 ---
 
@@ -204,7 +193,7 @@ const developer = {
 <table>
 <tr>
 
-<td width="33%" align="center" valign="top">
+<td width="33%" valign="top">
 
 ### TrackFlow Pro
 
@@ -212,21 +201,17 @@ const developer = {
 
 Shipment tracking, client dashboards, billing, operational workflows and business automation.
 
-<br>
-
 **Built with**
 
 `React` `Node.js` `Supabase`
 
 <br>
 
-<a href="https://github.com/aadisgh">
-  <img src="https://img.shields.io/badge/VIEW_REPOSITORY-161B22?style=for-the-badge&logo=github&logoColor=white" alt="View TrackFlow repository">
-</a>
+[**View Repository →**](https://github.com/aadisgh)
 
 </td>
 
-<td width="33%" align="center" valign="top">
+<td width="33%" valign="top">
 
 ### ConnectX
 
@@ -234,21 +219,17 @@ Shipment tracking, client dashboards, billing, operational workflows and busines
 
 Modern chat application with authentication, live messaging and interactive UI.
 
-<br>
-
 **Built with**
 
 `React` `Node.js` `MongoDB` `Socket.IO`
 
 <br>
 
-<a href="https://github.com/aadisgh">
-  <img src="https://img.shields.io/badge/VIEW_REPOSITORY-161B22?style=for-the-badge&logo=github&logoColor=white" alt="View ConnectX repository">
-</a>
+[**View Repository →**](https://github.com/aadisgh)
 
 </td>
 
-<td width="33%" align="center" valign="top">
+<td width="33%" valign="top">
 
 ### Portfolio
 
@@ -256,17 +237,13 @@ Modern chat application with authentication, live messaging and interactive UI.
 
 A personal website for showcasing projects, skills and technical work.
 
-<br>
-
 **Built with**
 
 `React` `Tailwind CSS` `Vite`
 
 <br>
 
-<a href="https://adityas.vercel.app/">
-  <img src="https://img.shields.io/badge/LIVE_PORTFOLIO-161B22?style=for-the-badge&logo=vercel&logoColor=white" alt="Open portfolio">
-</a>
+[**Open Portfolio →**](https://adityas.vercel.app/)
 
 </td>
 
@@ -301,8 +278,6 @@ A personal website for showcasing projects, skills and technical work.
 
 ## `05 / DEVELOPMENT PHILOSOPHY`
 
-<div align="center">
-
 <table>
 <tr>
 <td align="center" width="22%"><strong>BUILD</strong></td>
@@ -327,6 +302,8 @@ A personal website for showcasing projects, skills and technical work.
 </table>
 
 <br>
+
+<div align="center">
 
 > **"Build something today that makes tomorrow easier."**
 
