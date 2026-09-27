@@ -24,137 +24,21 @@ Building web applications, business systems, APIs and automation workflows.
 
 <br>
 
-<!-- ======================= HIGHLIGHTS ======================= -->
-
 <div align="center">
 
-<table>
-<tr>
-
-<td align="center" width="25%">
-
-### `〈/〉`
-
-**3+**  
-<sub>Major Projects</sub>
-
-</td>
-
-<td align="center" width="25%">
-
-### `♙`
-
-**2+**  
-<sub>Years Learning</sub>
-
-</td>
-
-<td align="center" width="25%">
-
-### `☕`
-
-**∞**  
-<sub>Cups of Coffee</sub>
-
-</td>
-
-<td align="center" width="25%">
-
-### `🚀`
-
-**Always**  
-<sub>Building</sub>
-
-</td>
-
-</tr>
-</table>
+<img src="./assets/profile-highlights.png" alt="Aditya Singh profile highlights" width="100%">
 
 </div>
 
+<br>
+
 ---
 
-## `~/about-me`
+<div align="center">
 
-<table>
-<tr>
+<img src="./assets/profile-about-ui.png" alt="About Aditya Singh and current status" width="100%">
 
-<td width="50%" valign="top" align="center">
-
-### About
-
-<br>
-
-**Aditya Singh**
-
-Full-Stack Developer · India
-
-<br><br>
-
-I turn ideas into practical software.
-
-<br><br>
-
-`Web Applications`  
-`Business Systems`  
-`REST APIs`  
-`Automation`  
-`Modern UI/UX`
-
-</td>
-
-<td width="50%" valign="top">
-
-### Current Status
-
-<br>
-
-```text
-● Building new products
-● Improving React & API architecture
-● Exploring AI & automation
-● Learning system design
-● Writing cleaner software
-● Open to collaboration
-```
-
-<br>
-
-**Focus**
-
-`Web Development` · `APIs` · `Automation` · `UI/UX`
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-### `developer.js`
-
-```javascript
-const developer = {
-  name: "Aditya Singh",
-  username: "aadisgh",
-  role: "Full-Stack Developer",
-  location: "India",
-
-  building: [
-    "Web Applications",
-    "Business Systems",
-    "Automation Tools"
-  ],
-
-  learning: [
-    "React",
-    "System Design",
-    "AI & Automation"
-  ],
-
-  mindset: "Build → Ship → Learn → Improve"
-};
-```
+</div>
 
 ---
 
@@ -203,7 +87,7 @@ Shipment tracking, client dashboards, billing, operational workflows and busines
 
 **Built with**
 
-`React` `Node.js` `Supabase`
+`React` · `Node.js` · `Supabase`
 
 <br>
 
@@ -221,7 +105,7 @@ Modern chat application with authentication, live messaging and interactive UI.
 
 **Built with**
 
-`React` `Node.js` `MongoDB` `Socket.IO`
+`React` · `Node.js` · `MongoDB` · `Socket.IO`
 
 <br>
 
@@ -239,7 +123,7 @@ A personal website for showcasing projects, skills and technical work.
 
 **Built with**
 
-`React` `Tailwind CSS` `Vite`
+`React` · `Tailwind CSS` · `Vite`
 
 <br>
 
@@ -278,6 +162,8 @@ A personal website for showcasing projects, skills and technical work.
 
 ## `05 / DEVELOPMENT PHILOSOPHY`
 
+<div align="center">
+
 <table>
 <tr>
 <td align="center" width="22%"><strong>BUILD</strong></td>
@@ -302,8 +188,6 @@ A personal website for showcasing projects, skills and technical work.
 </table>
 
 <br>
-
-<div align="center">
 
 > **"Build something today that makes tomorrow easier."**
 
