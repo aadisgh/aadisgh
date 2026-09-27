@@ -30,6 +30,49 @@ Building web applications, business systems, APIs and automation workflows.
 <tr>
 <td width="50%" valign="top">
 
+
+<br>
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### `〈/〉 3+`
+
+**Major Projects**
+
+</td>
+
+<td align="center" width="25%">
+
+### `♙ 2+`
+
+**Years Learning**
+
+</td>
+
+<td align="center" width="25%">
+
+### `☕ ∞`
+
+**Cups of Coffee**
+
+</td>
+
+<td align="center" width="25%">
+
+### `🚀 Always`
+
+**Building**
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
 ## `~/about-me`
 
 ```javascript
