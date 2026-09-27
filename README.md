@@ -26,14 +26,124 @@ Building web applications, business systems, APIs and automation workflows.
 
 </div>
 
+<br>
+
+<!-- ======================= HIGHLIGHTS ======================= -->
+
 <table>
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="25%">
+
+### `〈/〉`
+
+**3+**
+
+<sub>Major Projects</sub>
+
+</td>
+
+<td align="center" width="25%">
+
+### `♙`
+
+**2+**
+
+<sub>Years Learning</sub>
+
+</td>
+
+<td align="center" width="25%">
+
+### `☕`
+
+**∞**
+
+<sub>Cups of Coffee</sub>
+
+</td>
+
+<td align="center" width="25%">
+
+### `🚀`
+
+**Always**
+
+<sub>Building</sub>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
 
 ## `~/about-me`
 
+<table>
+<tr>
+
+<td width="50%" align="center" valign="top">
+
+### `about`
+
+<br>
+
+**Aditya Singh**
+
+Full-Stack Developer · India
+
+<br>
+
+I turn ideas into practical software.
+
+<br>
+
+`Web Applications`  
+`Business Systems`  
+`REST APIs`  
+`Automation`  
+`Modern UI/UX`
+
+<br><br>
+
+</td>
+
+<td width="50%" align="center" valign="top">
+
+### `current-status`
+
+<br>
+
+```text
+● Building new products
+● Improving React & API architecture
+● Exploring AI & automation
+● Learning system design
+● Writing cleaner software
+● Open to collaboration
+```
+
+<br>
+
+**Focus**
+
+`Web Development` · `APIs`  
+`Automation` · `UI/UX`
+
+<br>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
 ```javascript
-const aditya = {
+const developer = {
   name: "Aditya Singh",
   username: "aadisgh",
   role: "Full-Stack Developer",
@@ -55,30 +165,7 @@ const aditya = {
 };
 ```
 
-</td>
-
-<td width="50%" valign="top">
-
-## `~/current-status`
-
-```text
-● Building new products
-● Improving React & API architecture
-● Exploring AI & automation
-● Learning system design
-● Writing cleaner software
-● Open to collaboration
-```
-
-<br>
-
-**Focus**
-
-`Web Development` · `APIs` · `Automation` · `UI/UX`
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -90,13 +177,19 @@ const aditya = {
 
 <img src="https://skillicons.dev/icons?i=react,typescript,javascript,tailwind,html,css,vite&perline=7" alt="Frontend technologies">
 
+<br><br>
+
 **Backend**
 
 <img src="https://skillicons.dev/icons?i=nodejs,express&perline=2" alt="Backend technologies">
 
+<br><br>
+
 **Database & Services**
 
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase,firebase&perline=4" alt="Database technologies">
+
+<br><br>
 
 **Tools**
 
@@ -111,7 +204,7 @@ const aditya = {
 <table>
 <tr>
 
-<td width="33%" valign="top">
+<td width="33%" align="center" valign="top">
 
 ### TrackFlow Pro
 
@@ -119,17 +212,21 @@ const aditya = {
 
 Shipment tracking, client dashboards, billing, operational workflows and business automation.
 
+<br>
+
 **Built with**
 
 `React` `Node.js` `Supabase`
 
 <br>
 
-[**View Repository →**](https://github.com/aadisgh)
+<a href="https://github.com/aadisgh">
+  <img src="https://img.shields.io/badge/VIEW_REPOSITORY-161B22?style=for-the-badge&logo=github&logoColor=white" alt="View TrackFlow repository">
+</a>
 
 </td>
 
-<td width="33%" valign="top">
+<td width="33%" align="center" valign="top">
 
 ### ConnectX
 
@@ -137,17 +234,21 @@ Shipment tracking, client dashboards, billing, operational workflows and busines
 
 Modern chat application with authentication, live messaging and interactive UI.
 
+<br>
+
 **Built with**
 
 `React` `Node.js` `MongoDB` `Socket.IO`
 
 <br>
 
-[**View Repository →**](https://github.com/aadisgh)
+<a href="https://github.com/aadisgh">
+  <img src="https://img.shields.io/badge/VIEW_REPOSITORY-161B22?style=for-the-badge&logo=github&logoColor=white" alt="View ConnectX repository">
+</a>
 
 </td>
 
-<td width="33%" valign="top">
+<td width="33%" align="center" valign="top">
 
 ### Portfolio
 
@@ -155,13 +256,17 @@ Modern chat application with authentication, live messaging and interactive UI.
 
 A personal website for showcasing projects, skills and technical work.
 
+<br>
+
 **Built with**
 
 `React` `Tailwind CSS` `Vite`
 
 <br>
 
-[**Open Portfolio →**](https://adityas.vercel.app/)
+<a href="https://adityas.vercel.app/">
+  <img src="https://img.shields.io/badge/LIVE_PORTFOLIO-161B22?style=for-the-badge&logo=vercel&logoColor=white" alt="Open portfolio">
+</a>
 
 </td>
 
@@ -174,7 +279,7 @@ A personal website for showcasing projects, skills and technical work.
 
 <div align="center">
 
-<img src="./profile/activity-consistency-wide-dark.svg" width="96%" alt="GitHub activity, streaks and contributions">
+<img src="./profile/activity-consistency-wide-dark.svg" width="96%" alt="GitHub activity">
 
 </div>
 
@@ -184,11 +289,11 @@ A personal website for showcasing projects, skills and technical work.
 
 <div align="center">
 
-<img src="./profile/signal-field-wide-dark.svg" width="96%" alt="GitHub activity overview">
+<img src="./profile/signal-field-wide-dark.svg" width="96%" alt="GitHub overview">
 
 <br><br>
 
-<img src="./profile/language-composition-wide-dark.svg" width="96%" alt="GitHub language composition">
+<img src="./profile/language-composition-wide-dark.svg" width="96%" alt="Language composition">
 
 </div>
 
@@ -198,13 +303,30 @@ A personal website for showcasing projects, skills and technical work.
 
 <div align="center">
 
-```text
-BUILD       Start with an idea
-BREAK       Find what doesn't work
-LEARN       Understand why
-IMPROVE     Make it cleaner
-SHIP        Put it into the real world
-```
+<table>
+<tr>
+<td align="center" width="22%"><strong>BUILD</strong></td>
+<td width="78%">Start with an idea</td>
+</tr>
+<tr>
+<td align="center"><strong>BREAK</strong></td>
+<td>Find what doesn't work</td>
+</tr>
+<tr>
+<td align="center"><strong>LEARN</strong></td>
+<td>Understand why</td>
+</tr>
+<tr>
+<td align="center"><strong>IMPROVE</strong></td>
+<td>Make it cleaner</td>
+</tr>
+<tr>
+<td align="center"><strong>SHIP</strong></td>
+<td>Put it into the real world</td>
+</tr>
+</table>
+
+<br>
 
 > **"Build something today that makes tomorrow easier."**
 
@@ -216,15 +338,15 @@ SHIP        Put it into the real world
 
 <div align="center">
 
-[GitHub](https://github.com/aadisgh)
+<a href="https://github.com/aadisgh">GitHub</a>
 &nbsp; · &nbsp;
-[Portfolio](https://adityas.vercel.app/)
+<a href="https://adityas.vercel.app/">Portfolio</a>
 &nbsp; · &nbsp;
-[LinkedIn](https://www.linkedin.com/)
+<a href="https://www.linkedin.com/">LinkedIn</a>
 &nbsp; · &nbsp;
-[Instagram](https://linktr.ee/aadisgh)
+<a href="https://linktr.ee/aadisgh">Instagram</a>
 &nbsp; · &nbsp;
-[Email](mailto:adityasgh20@outlook.com)
+<a href="mailto:adityasgh20@outlook.com">Email</a>
 
 <br><br>
 
